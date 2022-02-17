@@ -1,0 +1,1 @@
+# next_typescrpit_template
