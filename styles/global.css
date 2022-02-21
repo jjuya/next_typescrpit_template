@@ -1,0 +1,35 @@
+:root {
+    --BASIC_SCALE: 16px;
+
+    /* font size */
+    --FONT_SIZE_12: 0.75rem;
+    --FONT_SIZE_13: 0.813rem;
+    --FONT_SIZE_14: 0.875rem;
+    --FONT_SIZE_16: 1rem;
+    --FONT_SIZE_18: 1.125rem;
+    --FONT_SIZE_20: 1.25rem;
+    --FONT_SIZE_24: 1.5rem;
+    --FONT_SIZE_28: 1.75rem;
+    --FONT_SIZE_32: 2rem;
+    --FONT_SIZE_36: 2.25rem;
+    --FONT_SIZE_40: 2.5rem;
+    --FONT_SIZE_48: 3rem;
+    --FONT_SIZE_52: 3.25rem;
+    --FONT_SIZE_56: 3.5rem;
+    --FONT_SIZE_60: 3.75rem;
+    --FONT_SIZE_68: 4.25rem;
+    --FONT_SIZE_72: 4.5rem;
+    --FONT_SIZE_80: 5rem;
+    --FONT_SIZE_88: 5.5rem;
+}
+
+html {
+    /* Font */
+    font-family: 'Noto Sans KR', sans-serif;
+
+    /* Typography */
+    font-size: var(--BASIC_SCALE);
+    font-weight: 400;
+    letter-spacing: 0;
+    color: #333941;
+}
